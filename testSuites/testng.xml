@@ -10,7 +10,7 @@
             <class name="tests.ErrorValidationsTest">
                 <methods><include name="LoginErrorValidation"/>
                     <include name="ProductErrorValidation"/>
-                </methods> 
+                </methods>
             </class>
 
         </classes>
